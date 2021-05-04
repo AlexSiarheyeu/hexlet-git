@@ -1,4 +1,7 @@
 git is awesome and it's true
+
 old line
 
-new line
+
+/////////////////
+//TODO: should not be in commit message
