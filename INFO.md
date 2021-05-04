@@ -1,3 +1,4 @@
-git is awesome and it's true
+git is awesome and it's true!
 
 //TODO
+//TODO2
